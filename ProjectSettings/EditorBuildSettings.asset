@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/DoRac Official.unity
+    guid: 178104db7fdb5f845a4cb6e43652cee0
+  - enabled: 0
+    path: Assets/Scenes/DoRac Official 1.unity
+    guid: 74c70905db248ba479e88de137128503
+  - enabled: 1
+    path: Assets/Scenes/Connect.unity
+    guid: f5de7d7f981164498976912ee372ee17
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: fb683f710ed214e5f972e95e9359cb42
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 613d236ae755f4bb38872cc6a1963740
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: e4d39100b491fc3468c18388c76f77a3
+  m_configObjects: {}
