@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 596ed88826715b4419167bd638e5c6bf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - mokoto glitch mark I
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9c2c819df73e8744aba2e328b4a5e9ea, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
